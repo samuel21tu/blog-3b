@@ -118,12 +118,12 @@ body {
   }
   .site{
     margin: 3vw;
+    margin-bottom:3vw;
   }
   .footer{
     clear: both;
     background-color: #23232e;
     padding: 15px;
-    margin-top: 2vw;
     padding: 2vw;
     position: fixed;
     bottom: 0;
